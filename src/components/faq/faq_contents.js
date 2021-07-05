@@ -18,4 +18,3 @@ export const faqData = [
       Q&A sessions focusing on your project.`
     }
 ];
-// test of merged.
